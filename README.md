@@ -5,15 +5,18 @@ My name is Julian Kucia. I'm a Master's student in Automation and Robotics at th
 I graduated from the Cracow University of Technology with an engineering degree in Automation and Robotics.
 I'm passionate about programming and 3D modelling. 
 
-I work in:
-Python
-C#
-Catia v5
-3DEXPERIENCE
-Autodesk Inventor
-Autodesk AutoCAD
-LabVIE
-Matlab
+Programming:
+- Python
+- C#
+- Matlab
+- LabVIEW
+
+CAD/CAE:
+- CATIA v5
+- 3DEXPERIEnce
+- Autodesk Inventor
+- Autodesk AutoCAD
+
 <!--
 **HeyRoseHaze/HeyRoseHaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
