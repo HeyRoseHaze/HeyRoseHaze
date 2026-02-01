@@ -3,6 +3,7 @@ My name is Julian Kucia. I'm a Master's student in Automation and Robotics at th
 
 ## About me
 I graduated from the Cracow University of Technology with an engineering degree in Automation and Robotics.
+
 I'm passionate about programming and 3D modelling. 
 
 💻Programming:
