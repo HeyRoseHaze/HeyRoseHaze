@@ -1,5 +1,7 @@
 ## Hi there 👋
+My name is Julian Kucia. I'm a Master's student in Automation and Robotics at the Cracow University of Technology. 
 
+I graduated from the Cracow University of Technology with an engineering degree in Automation and Robotics.
 <!--
 **HeyRoseHaze/HeyRoseHaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
