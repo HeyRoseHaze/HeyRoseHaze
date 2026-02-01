@@ -5,15 +5,15 @@ My name is Julian Kucia. I'm a Master's student in Automation and Robotics at th
 I graduated from the Cracow University of Technology with an engineering degree in Automation and Robotics.
 I'm passionate about programming and 3D modelling. 
 
-Programming:
+💻Programming:
 - Python
 - C#
 - Matlab
 - LabVIEW
 
-CAD/CAE:
+🔧CAD/CAE:
 - CATIA v5
-- 3DEXPERIEnce
+- 3DEXPERIENCE
 - Autodesk Inventor
 - Autodesk AutoCAD
 
