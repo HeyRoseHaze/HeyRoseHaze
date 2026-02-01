@@ -18,6 +18,7 @@ I'm passionate about programming and 3D modelling.
 - Autodesk Inventor
 - Autodesk AutoCAD
 
+I occasionally create graphics in Affinity.
 <!--
 **HeyRoseHaze/HeyRoseHaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
